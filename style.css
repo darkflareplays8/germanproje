@@ -108,10 +108,7 @@ html, body {
       h2 {
         font-size: 2rem !important;
       }
-      .slide-images {
-        flex-direction: column;
-        gap: 1rem;
-      }
+
       .slide-images img {
         max-width: 90%;
       }
